@@ -17,6 +17,7 @@ Steps Performed
 <img width="582" height="488" alt="Screenshot 2026-09-24 030313" src="https://github.com/user-attachments/assets/35fdabeb-c567-4cae-8e2c-1195e42bb689" />
 
 Dataset Details
+
 ●	Dataset: Telco Customer Churn
 ●	Records: 7,043
 ●	Features: 21
