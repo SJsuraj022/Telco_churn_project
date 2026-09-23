@@ -15,6 +15,7 @@ Steps Performed
 <img width="833" height="482" alt="Screenshot 2026-09-24 030255" src="https://github.com/user-attachments/assets/c4b7d0ef-024b-4108-9977-3815ff081d20" />
 <img width="682" height="475" alt="Screenshot 2026-09-24 030301" src="https://github.com/user-attachments/assets/d27ffaeb-9fdf-46b2-948b-a7894b424bce" />
 <img width="582" height="488" alt="Screenshot 2026-09-24 030313" src="https://github.com/user-attachments/assets/35fdabeb-c567-4cae-8e2c-1195e42bb689" />
+
 Dataset Details
 ●	Dataset: Telco Customer Churn
 ●	Records: 7,043
